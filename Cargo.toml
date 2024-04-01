@@ -1,0 +1,7 @@
+[workspace]
+members = [ 
+    "client",
+    "connect_n", 
+    "grid_2d", 
+    "server"
+]
